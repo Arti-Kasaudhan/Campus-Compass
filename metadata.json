@@ -1,0 +1,5 @@
+{
+  "name": "Campus Compass",
+  "description": "A modern campus navigation app to help students find their way around. Features an interactive map, location search, and AI-powered details for key facilities.",
+  "requestFramePermissions": []
+}
